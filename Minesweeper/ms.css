@@ -1,0 +1,17 @@
+.root {
+   -fx-font-family: sansserif;
+   -fx-background-color: #85bfe2;
+   -fx-alignment: CENTER;
+}
+
+.label {
+   -fx-font-size: 14pt;
+   -fx-font-weight: bold;
+}
+
+.button {
+   -fx-font-size: 18pt;
+   -fx-font-weight: 900;
+   -fx-background-color: #dff9de;
+   -fx-border-style: solid;
+}
